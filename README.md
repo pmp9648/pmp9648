@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Background in Databases and Systems Administation
 - 💼 &nbsp; Exploring solutions in agnostic cloud environments 
 - 🧠 &nbsp; Enthusiast in data visualizations, analytics and predictions.
-- ✍️ &nbsp; Being active when possible and spending time with friends and family
+- 🏕️ &nbsp; Being active when possible and spending time with friends and family
 - 🤹 &nbsp; Being a better human.
 - 🌎 &nbsp; The only way through this, is together. 
 
