@@ -24,6 +24,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pmp9648&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pmp9648 Github Stats">
 
 </br>
+&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmp9648&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/pmp9648/github-readme-stats)
 
