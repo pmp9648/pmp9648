@@ -1,4 +1,5 @@
-<h2> @pmp9648 </h2> <img align="right" alt="GIF" src="https://media4.giphy.com/media/sYh5oY4WTDO12/giphy.gif?cid=790b76111a76e2fbd61fb415dd9cb26793a139f206dcd020&rid=giphy.gif&ct=g" width="300">
+<div><h2> @pmp9648 </h2>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/sYh5oY4WTDO12/giphy.gif?cid=790b76111a76e2fbd61fb415dd9cb26793a139f206dcd020&rid=giphy.gif&ct=g" width="265"> 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
