@@ -2,14 +2,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Full Stack Application Development
+- 🖥️ &nbsp; I’m currently learning Full Stack Application Development
 - 🤔 &nbsp; Focusing on fundamendals of Computer Science
 - 🎓 &nbsp; Background in Databases and Systems Administation
 - 💼 &nbsp; Exploring solutions in agnostic cloud environments 
-- 🌱 &nbsp; Enthusiast in data visualizations, analytics and predictions.
+- 🧠 &nbsp; Enthusiast in data visualizations, analytics and predictions.
 - ✍️ &nbsp; Being active when possible and spending time with friends and family
-- ✍️ &nbsp; Being a better human.
-- ☕ &nbsp; The only way through this, is together. 
+- 🤹 &nbsp; Being a better human.
+- 🌎 &nbsp; The only way through this, is together. 
 
 
 <h3>🛠 Tech Stack</h3>
